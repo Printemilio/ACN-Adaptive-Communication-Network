@@ -14,12 +14,6 @@ The **Adaptive Communication Network (ACN)** is a novel neural network architect
 - [Benefits](#benefits)
 - [Implementation](#implementation)
 - [Results Summary](#results-summary)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Additional Resources](#additional-resources)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
